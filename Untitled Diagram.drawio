@@ -1,8 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T02:59:56.595Z" agent="5.0 (Windows)" etag="WN9F_huMClCrS2hPQee6" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T03:00:57.788Z" agent="5.0 (Windows)" etag="IUOzHEnqu-ECMIkMx-7e" version="14.0.1" type="github">
   <diagram id="O8oZ7_ynklipTkbrcp8P" name="Page-1">
     <mxGraphModel dx="1718" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
+        <object label="" id="0">
+          <mxCell />
+        </object>
         <mxCell id="1" parent="0" />
         <mxCell id="zhVukRdq-w0PwJqLsccM-3" value="BASE DE DATOS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="250" height="100" as="geometry" />
